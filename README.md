@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Bonjour 👋🏻 I'm Kevin</h1>
 
-<!--
-**Manoz/Manoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://twitter.com/manoz">
+  <img align="center" alt="Follow me on Twitter" width="24px" src="./assets/Twitter.svg" />
+</a>
+<a href="https://codepen.io/Manoz">
+  <img align="center" alt="Find me on Codepen" width="24px" src="./assets/Codepen.svg" />
+</a>
+<a href="instagram.com/manoz_">
+  <img align="center" alt="Follow me on Instagram" width="24px" src="./assets/Instagram.svg" />
+</a>
+</p>
 
-Here are some ideas to get you started:
+### 🙋🏻‍♂️ About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Frontend Developer from France 🥖  
+I breathe life into creative and functional web interfaces with a sharp focus on accessible user experiences.  
+
+I work with Laravel, Vue.js, Tailwind CSS, Alpine.js, and more.  
+I also play with DevOps stuff, 3D rendering, AI and LLMs.
