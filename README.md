@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋🏻 I'm Kevin</h1>
+<h1 align="center">👋🏻 Bonjour!</h1>
 
 <p align="center">
 <a target="_blank" href="https://twitter.com/manoz"><img align="center" alt="Follow me on Twitter" width="24px" src="./assets/Twitter.svg" /></a>
@@ -8,8 +8,18 @@
 
 ### 🙋🏻‍♂️ About me
 
-I'm a Frontend Developer from France 🥖  
-I breathe life into creative and functional web interfaces with a sharp focus on accessible user experiences.  
+The name is **Kevin**. I'm a Frontend Developer from France 🥖  
+I breathe life into **creative** and **functional** web interfaces with a sharp focus on **accessible user experiences**. I like the idea of making the web an inclusive place for everyone, one line of code at a time.
 
-I work with Laravel, Vue.js, Tailwind CSS, Alpine.js, and more.  
-I also play with DevOps stuff, 3D rendering, AI and LLMs.
+I work with _Laravel_, _Vue.js_, _Tailwind CSS_, _Alpine.js_, and more. I'm also interested about DevOps stuff, 3D rendering and more recently AI and LLMs.  
+
+When I'm not programming, I'm likely to be found in a bar with some friends, a good beer or/and a Gin and Tonic.  
+I also have a soft spot for music. Although I might not be the next David Gilmour, I take pleasure in tinkering with a guitar, a Mac, a MIDI Controller, trying to transform the melodies in my head into my own unique tunes.
+
+Regardless of what I'm doing, I'm always chasing creativity, authenticity, and a sense of connection.
+
+> Here's to a world where code, drinks, music, cats and good company intersect! 😌
+
+### 🚀 Who doesn't like stats?
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
