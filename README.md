@@ -18,7 +18,7 @@ I also have a soft spot for music. Although I might not be the next David Gilmou
 
 Regardless of what I'm doing, I'm always chasing creativity, authenticity, and a sense of connection.
 
-> Here's to a world where code, drinks, music, cats and good company intersect! 😌
+> _Here's to a world where code, drinks, music, cats and good company intersect!_ 😌
 
 ### 🚀 Who doesn't like stats?
 
