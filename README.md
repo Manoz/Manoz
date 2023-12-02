@@ -8,7 +8,7 @@
 
 ### 🙋🏻‍♂️ About me
 
-The name is **Kevin**. I'm a Frontend Developer from France 🥖  
+The name is **Kevin**. I'm a Lead Frontend Developer from France 🥖  
 I breathe life into **creative** and **functional** web interfaces with a sharp focus on **accessible user experiences**. I like the idea of making the web an inclusive place for everyone, one line of code at a time.
 
 I work with _Laravel_, _Vue.js_, _Tailwind CSS_, _Alpine.js_, and more. I'm also interested about DevOps stuff, 3D rendering and more recently AI and LLMs.  
